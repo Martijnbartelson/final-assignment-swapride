@@ -2,6 +2,8 @@
 # Codaisseur final individual assingment
 For our final evaluation we had to create an event ticket marketplace, combined with an Uber pickup service. We needed to implement authentication and authorization. An important part of the assingment was to come up with a fraud algoritm that calculates the risk of a ticket that is for sale on the platform. 4 days of hard work and little sleep, but in the end I am happy with what I was able to build in this short amount of time.
 
+![Screenshot](swapride.png)
+
 A live version of the app: https://enigmatic-beyond-14205.herokuapp.com/
 
 # Technologies used
